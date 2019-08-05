@@ -122,10 +122,6 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://shizusafelink.blogspot.com/2019/07/loncatinjandamu.html",
-      "https://shizusafelink.blogspot.com/2019/07/menantijanda.html",
-      "https://shizusafelink.blogspot.com/2019/08/cuman-loncatin.html",
-      "https://shizusafelink.blogspot.com/2019/08/cuman-loncatin.html",
       "https://shizusafelink.blogspot.com/2019/08/cuman-loncatin.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
